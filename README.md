@@ -44,7 +44,3 @@ This is a simpleJava program that calculates the frequency of each word in a giv
     - The program will display the results for the pre-defined **normal** and **edge test cases**.
 
 ---
-
-## Example Output
-
-### Normal Test Cases
