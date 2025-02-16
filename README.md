@@ -5,6 +5,8 @@ This is a simpleJava program that calculates the frequency of each word in a giv
 ---
 
 ## Features
+- **User Input**:
+    - The program prompts the user to enter their choice of words and returns the word frequencies result
 
 - **Normal Test Cases**:
     - Mixed words and spaces.
